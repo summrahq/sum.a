@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Alpha App</string>
+    <string name="alpha">alpha</string>
+    <string name="call">Call</string>
+    <string name="offer">Offer</string>
+    <string name="offers">Offers</string>
+    <string name="locator">locator</string>
+    <string name="register_now">Register Now!</string>
+    <string name="gift">gift</string>
+    <string name="location">location</string>
+    <string name="not_using_alpha">Not using alpha?</string>
+    <string name="login">Login</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_username_email">Enter Username/Email</string>
+</resources>
